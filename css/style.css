@@ -20,14 +20,14 @@
 }
 
 .image-main {
-    background-image: url(images/Main_img.jpg);
+    background-image: url(../images/Main_img.jpg);
     height: 300px;
     background-attachment: fixed;
     background-size: cover;
 }
 
 .image-main2 {
-    background-image: url(images/Main_img2.jpg);
+    background-image: url(../images/Main_img2.jpg);
     height: 300px;
     background-attachment: fixed;
     background-size: cover;
